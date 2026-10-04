@@ -1,0 +1,7 @@
+[package]
+name = "concurrent-cache"
+version = "0.1.0"
+edition = "2021"
+description = "A thread-safe, sharded LRU cache built from raw concurrency primitives"
+
+[dev-dependencies]
